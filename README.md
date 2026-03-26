@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Name: Pari Pancholiya
+Branch: BTECH CSE Cloud Computing And Automation 
+Year: First Year
+Learning Goal: I hope to learn how to build scalable AI applications and master Python for data science.
 <!--
 **paripancholiya/paripancholiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
